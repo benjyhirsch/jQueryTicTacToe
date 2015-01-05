@@ -1,5 +1,2 @@
-# ttt.js
-
-[Live Demo][live-demo]
-
-[live-demo]: http://appacademy.github.io/ttt.js/solution/html/index.html
+# Tic Tac Toe
+[Live Demo](http://benjyhirsch.github.io/jQueryTicTacToe)
